@@ -1,0 +1,3 @@
+gir add video_2025-11-04_22-56-25.mp4
+git commit -m "Add video file"
+git push origin main
